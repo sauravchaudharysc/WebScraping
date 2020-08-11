@@ -39,8 +39,6 @@ A wide variety of uses of web scraping, Each business or individual has unique n
 
 ##### If not you should, **DATA HAS A BETTER IDEA.**
 
-#####  
-
 ### What can you Scrape ?
 
 It depends on website to website. Some websites allows web scraper to scrape the data and some doesn't. It depends. So you can check it by simply adding a line of text at end of URL
