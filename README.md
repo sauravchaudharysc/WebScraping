@@ -126,3 +126,25 @@ Some ways to navigate the HTML Structure to extract information :-
 
    For Further Information. Read the BeautifulSoup [Documentation](http://www.crummy.com/software/BeautifulSoup/)
 
+### Beautiful Selectors
+
+One of the best ways in my opinion to actually use this soup object is to use the select method on it and select allows to grab a piece of data from soup object that we downloaded and created using what we call a CSS selector.
+
+ But a CSS selector allows us to select the data using css selector.
+
+- soup.select('a')
+
+  **-->** It going to select all the a tag.
+
+- soup.select('.abcde')
+
+  **-->** It going to select all the span with class name abcde.
+
+- soup.select('#dadcba')
+
+  **-->** It going to select all the span with id dadcba.
+
+
+Now let us use our knowledge to make a project which is very useful in daily life using Web Scraping. [Web-Scraper](https://github.com/sauravchaudharysc/Web-Scraper)
+
+  
