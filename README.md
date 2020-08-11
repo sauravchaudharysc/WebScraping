@@ -1,5 +1,4 @@
 ## Web Scraping
-
 Web Scraping simply means programmatically using Python or any other language grabbing data from websites. 
 
 The easiest way to get data from a website is usually using an API. Some websites allow us to just access it easily or they might have an API but it's only restricted to certain register. Maybe we have to register or pay for it. Maybe they don't offer an API . So instead we might want to just scrape the HTML or the Website and see what we can use. 
@@ -125,4 +124,5 @@ Some ways to navigate the HTML Structure to extract information :-
 
    --> Display all the statement with id=link3.
 
-   For Further Information. Read the BeautifulSoup Documentation
+   For Further Information. Read the BeautifulSoup [Documentation](http://www.crummy.com/software/BeautifulSoup/)
+
